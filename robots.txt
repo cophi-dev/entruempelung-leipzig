@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://entruempelung-leipzig.vercel.app/sitemap.xml
